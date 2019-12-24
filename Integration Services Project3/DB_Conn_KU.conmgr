@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DB_Conn_KU"
+  DTS:DTSID="{1FF8DFA6-6461-47E7-B02E-42C39A1409AF}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=ONURALIKANBB71\MSSQLSERVER01;Initial Catalog=KU;Integrated Security=True;Application Name=SSIS-Package-{1FF8DFA6-6461-47E7-B02E-42C39A1409AF}ONURALIKANBB71\MSSQLSERVER01.KU;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
